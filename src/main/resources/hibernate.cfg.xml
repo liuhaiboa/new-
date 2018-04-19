@@ -8,8 +8,8 @@
     <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
       <mapping class="com.haibo.haibo.po.News"/>
       <mapping class="com.haibo.haibo.po.User"/>
-      <!-- <property name="connection.username"/> -->
-    <!-- <property name="connection.password"/> -->
+       <property name="connection.username"/>
+     <property name="connection.password"/>
 
     <!-- DB schema will be updated if needed -->
     <!-- <property name="hbm2ddl.auto">update</property> -->
