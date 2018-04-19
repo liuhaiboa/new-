@@ -18,39 +18,9 @@
 
 					
 
-					<#--<div class="btn-group sepH_b" >-->
-						<#--<button data-toggle="dropdown" class="btn dropdown-toggle">-->
-							<#--行数 <span class="caret"></span>-->
-						<#--</button>-->
-						<#--<ul class="dropdown-menu">-->
-
-
-							<#--<li><a href="">默认5行</a></li>-->
-							<#--<li><a href="">每页10行</a></li>-->
-							<#--<li><a href="">每页2行</a></li>-->
-						<#--</ul>-->
-					<#--</div>-->
-
 	<div>
 	<div>
-        <#--<iframe name="sinaWeatherTool"-->
-				<#--src="http://weather.news.sina.com.cn/chajian/iframe/weatherStyle40.html?city=%E5%93%88%E5%B0%94%E6%BB%A8"-->
-				<#--width="266" height="113" marginwidth="0" marginheight="0" hspace="0" vspace="0"-->
-				<#--frameborder="0" scrolling="no"></iframe>-->
 
-
-
-            <#--<iframe width="200" scrolling="no" height="500"-->
-					<#--frameborder="0" allowtransparency="true"-->
-					<#--src="http://i.tianqi.com/index.php?c=code&id=12&bgc=%2300B0F0&icon=1&num=1&site=12">-->
-
-			<#--</iframe>-->
-
-            <#--<iframe width="420" scrolling="no"-->
-					<#--height="60" frameborder="0" allowtransparency="true"-->
-					<#--src="http://i.tianqi.com/index.php?c=code&id=12&icon=1&num=5&site=12">-->
-
-			<#--</iframe>-->
 		${.now}
 
 
